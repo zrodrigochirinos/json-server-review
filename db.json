@@ -1,5 +1,5 @@
 {
-  "reviewsComponent": [
+  "componentReviews": [
     {
       "id": 1,
       "rating": 5,
@@ -105,7 +105,7 @@
       "component_name": ""
     }
   ],
-  "reviewsTechnicalSupport": [
+  "technicalSupportReviews": [
     {
       "id": 1,
       "rating": 5,
